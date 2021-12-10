@@ -6,8 +6,8 @@
 
 🌱 I’m currently learning [data engineering](https://www.udacity.com/course/data-engineer-nanodegree--nd027) and [cloud devops](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991) with Udacity :)
 
-📫 You can contact me through the web form [here](https://edoubledy.github.io)
-
 ✈️ I live between Palo Alto, CA, and Oxford, UK, with my wife [@SophieSchau](https://github.com/SophieSchau) and dog [Sudo](https://www.instagram.com/adognamedsudo/?hl=en)
 
 🏄‍♂️ Outside of tech I enjoy video/board gaming, sports (gym, surfing), and cooking
+
+📫 You can contact me through the web form [here](https://edoubledy.github.io)
