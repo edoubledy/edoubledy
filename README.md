@@ -8,6 +8,6 @@
 
 ✈️ I live between Palo Alto, CA, and Oxford, UK, with my wife [@SophieSchau](https://github.com/SophieSchau) and dog [Sudo](https://www.instagram.com/adognamedsudo/?hl=en)
 
-🏄‍♂️ Outside of tech I enjoy video/board gaming, sports (gym, surfing), and cooking
+🏄‍♂️ Outside of tech I enjoy video/board gaming, puzzles, sports (gym, surfing), and cooking
 
 📫 You can contact me through the web form [here](https://edoubledy.github.io)
